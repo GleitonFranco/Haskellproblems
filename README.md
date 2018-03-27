@@ -6,15 +6,15 @@ Cada arquivo é um módulo para a resolução de um problema específico.</br>
 
 Problema do Puzzle-8:
 =====================
-Resolução de um quadro de 9 casas com peças numeradas de 1 a 8, e um espaço vazio. O objetivo é reorganizar o quadro deslizando as peças até ficarem ordenadas.
+Resolução de um quadro de 9 casas com peças numeradas de 1 a 8, e um espaço vazio. O objetivo é reorganizar o quadro deslizando as peças até ficarem ordenadas.</br>
 
-+-+-+-+                              +-+-+-+
-|1|2| |                              |1|2|3|
-+-+-+-+                              +-+-+-+ 
-|3|4|5|     ----------------->       |4|5|6|
-+-+-+-+                              +-+-+-+
-|6|7|8|                              |7|8| |
-+-+-+-+                              +-+-+-+
++-+-+-+                              +-+-+-+</br>
+|1|2| |                              |1|2|3|</br>
++-+-+-+                              +-+-+-+</br>
+|3|4|5|     ----------------->       |4|5|6|</br>
++-+-+-+                              +-+-+-+</br>
+|6|7|8|                              |7|8| |</br>
++-+-+-+                              +-+-+-+</br>
 
 
 Passos Iniciais:
