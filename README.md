@@ -8,6 +8,14 @@ Problema do Puzzle-8:
 =====================
 Resolução de um quadro de 9 casas com peças numeradas de 1 a 8, e um espaço vazio. O objetivo é reorganizar o quadro deslizando as peças até ficarem ordenadas.
 
++-+-+-+                              +-+-+-+
+|1|2| |                              |1|2|3|
++-+-+-+                              +-+-+-+ 
+|3|4|5|     ----------------->       |4|5|6|
++-+-+-+                              +-+-+-+
+|6|7|8|                              |7|8| |
++-+-+-+                              +-+-+-+
+
 
 Passos Iniciais:
 ================
